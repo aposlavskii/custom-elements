@@ -23,7 +23,7 @@ ymaps.ready(function () {
     },
       {
         iconLayout: 'default#image',
-        iconImageHref: '../img/mdi_location_on.png',
+        iconImageHref: 'img/mdi_location_on.png',
         iconImageSize: [48, 48],
         iconImageOffset: [-48, -48]
       });
